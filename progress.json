@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T12:33:25.145Z",
+  "generated_at": "2026-09-27T12:33:27.539Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -11,6 +11,28 @@
       "path": "math/0007-vector-operations",
       "first_solved_at": "2026-09-20T12:03:46.593Z",
       "last_pushed_at": "2026-09-20T12:03:46.593Z"
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-09-21T02:14:13.336Z",
+      "last_pushed_at": "2026-09-21T02:14:13.336Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-09-21T02:27:37.474Z",
+      "last_pushed_at": "2026-09-21T02:27:37.474Z"
     }
   }
 }
